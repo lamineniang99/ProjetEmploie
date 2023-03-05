@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjetEmploie</string>
+    <string name="demandeur">Demandeur d emploie</string>
+    <string name="recruteur">Recruteur</string>
+    <string name="nomStr">Veuillez saisir votre nom</string>
+    <string name="prenomStr">Veuillez saisir votre prenom</string>
+    <string name="ageInt">Veuillez saisir votre age</string>
+    <string name="addresseStr">Veuillez saisir votre addresse</string>
+    <string name="emailStr">Veuillez saisir votre email</string>
+    <string name="telephoneStr">Veuillez saisir votre numero de telephone</string>
+    <string name="specialiteStr">Veuillez saisir votre specialité</string>
+    <string name="niveauStr">Veuillez saisir votre niveau d etude</string>
+    <string name="experienceStr">Veuillez saisir votre experience professionnel</string>
+</resources>
